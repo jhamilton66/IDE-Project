@@ -1,13 +1,11 @@
-# Basic Project Project 
+#Selenium IDE Import Project
 
-*Using Java Basic Concepts* Day 04
+*Project which uses Selenium IDE and exports the test to Java with TestNG. Code is then modified to support data driven testing with proper assertions.
 
 **Java 7**
 
-* Scanner
-* String
-* Primitives
-* Switch
-* If/Else
+* Maven
+* Selenium
+* TestNG
 
 [James Hamilton] (jameshamilton9878@comcast.net)
