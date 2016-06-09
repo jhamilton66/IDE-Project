@@ -8,4 +8,4 @@
 * Selenium
 * TestNG
 
-[James Hamilton] (jameshamilton9878@comcast.net)
+[James Hamilton](jameshamilton9878@comcast.net)
